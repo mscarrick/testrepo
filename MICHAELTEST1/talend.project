@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_EZ0bYXcrEeumq8ZODsDPbg" label="michaeltest1" description="" language="java" technicalLabel="MICHAELTEST1" creationDate="2021-02-23T15:41:15.000+0000" author="_EZ0bYncrEeumq8ZODsDPbg" productVersion="Talend Data Services Platform-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/mscarrick/testrepo.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false">
+    <migrationTask xmi:id="_EvtL0HcrEeumq8ZODsDPbg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_EZ0bYncrEeumq8ZODsDPbg" login="michael.carrick@ncl.ac.uk" firstName="Michael" lastName="Carrick" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
